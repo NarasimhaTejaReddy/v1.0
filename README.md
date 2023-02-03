@@ -28,5 +28,5 @@ This will compile the contract and run the tests, generating a coverage report t
 
 # AI code usage:
 
-![](../../Screenshot%202023-02-03%20at%2019.40.38.png)
-![](../../Screenshot%202023-02-03%20at%2019.39.42.png)
+![](images/TY2.png)
+![](images/TY1.png)
